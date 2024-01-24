@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🔭 I’m currently working on improving my web development skills.<br>👯 I’m looking to collaborate on Java-related projects.<br>🤝 I’m looking for help with Java best practices and advanced techniques.<br>🌱 I’m currently learning React.js.
+<br>🔭 I’m currently working on creating AWS lambdas using .NET and C#<br> I’m currently learning ASP .NET
 
 
 ## 🌐 Socials:

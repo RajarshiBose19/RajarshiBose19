@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🔭 I’m currently working on creating AWS lambdas using .NET and C#<br> I’m currently learning ASP .NET
+<br>🔭 I’m currently working on creating AWS lambdas using .NET and C#<br>🌱 I’m currently learning ASP .NET
 
 
 ## 🌐 Socials:
